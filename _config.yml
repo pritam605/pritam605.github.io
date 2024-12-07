@@ -50,8 +50,8 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "pritam.lhs@gmail.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: pritam605
 #  twitter: daattali
@@ -60,7 +60,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: pritam605
+  linkedin: pritam-585256a8
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
