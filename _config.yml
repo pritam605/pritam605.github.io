@@ -19,12 +19,20 @@ author: Pritam
 # --- List of links in the navigation bar --- #
 ###############################################
 
+#navbar-links:
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
+
+  # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: ""
+  Projects: "projects"
+  Blog: "blog"
+  Competitions: "competitions"
+  Resume: "resume"
 
 ################
 # --- Logo --- #
